@@ -71,14 +71,24 @@ El sistema actualiza la prioridad de Milovan Fuentes a "ALTA", asegurando que se
 
 El usuario revisa la lista de espera para ver todos los pacientes y sus prioridades.
 ````c
-Pacientes en espera:
+Ingrese su opción: 3
+Pacientes en espera: 
 
-Paciente Nº 1
-Nombre: Juan
-Edad: 12
-Síntoma: Gripe
+Paciente 1:
+Nombre: Milovan Fuentes
+Edad: 19
+Síntoma: Cancer
 Prioridad: ALTA
-Hora de llegada: 23:11:29
+Hora de llegada: 23:44:31
+
+Paciente 2:
+Nombre: Jose Cabrera
+Edad: 20
+Síntoma: Fiebre
+Prioridad: BAJA
+Hora de llegada: 23:44:56
+
+Presione una tecla para continuar...
 ````
 La lista muestra a Milovan Fuentes en la parte superior, indicando su prioridad alta y que es la siguiente en línea para recibir atención.
 **Paso 4: Atender al Siguiente Paciente**
