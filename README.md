@@ -67,6 +67,7 @@ Para asignar prioridad al paciente Milovan, ingrese el número correspondiente: 
 Presione una tecla para continuar...
 ````
 El sistema actualiza la prioridad de Milovan Fuentes a "ALTA", asegurando que será uno de las próximos pacientes en ser atendido.
+
 **Paso 3: Ver la Lista de Espera**
 
 El usuario revisa la lista de espera para ver todos los pacientes y sus prioridades.
@@ -91,6 +92,7 @@ Hora de llegada: 23:44:56
 Presione una tecla para continuar...
 ````
 La lista muestra a Milovan Fuentes en la parte superior, indicando su prioridad alta y que es la siguiente en línea para recibir atención.
+
 **Paso 4: Atender al Siguiente Paciente**
 
 Milovan Fuentes es llamada para ser atendida basándose en su prioridad.
@@ -105,6 +107,7 @@ Presione una tecla para continuar...
 El sistema muestra que Milovan Fuentes está siendo atendida y la elimina de la lista de espera.
 
 **Paso 5: Mostrar pacientes por prioridad**
+
 En esta opción se mostrara los pacientes los cuales tengan la prioridad la cual el usuario entregue:
 ````c
 Ingrese su opción: 5
